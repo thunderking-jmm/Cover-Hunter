@@ -72,9 +72,9 @@ ko-fi.com/coverhunter
 
 ### Pestaña Audio
 
-![Cover Hunter - Audio](screenshots/audio.png)
+![Cover Hunter - Audio](screenshots/screenshot audio.png)
 
 ### Pestaña Juegos
 
-![Cover Hunter - Juegos](screenshots/juegos.png)
+![Cover Hunter - Juegos](screenshots/screenshot juegos.png)
 
