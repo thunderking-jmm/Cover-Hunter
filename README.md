@@ -63,8 +63,7 @@ Cover Hunter es gratuito, sin anuncios y sin versiones de pago.
 
 Si te resulta útil y quieres apoyar su desarrollo, puedes hacerlo mediante una donación voluntaria.
 
-Invítame a un café ☕ en Ko-fi
-ko-fi.com/coverhunter
+[☕ Invítame a un café en Ko-fi](https://ko-fi.com/coverhunter)
 
 ---
 ---
