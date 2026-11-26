@@ -61,6 +61,11 @@ Puedes descargar la última versión de Cover Hunter desde la sección [Releases
 Proyecto desarrollado de forma independiente.
 Cover Hunter es gratuito, sin anuncios y sin versiones de pago.
 
+Si te resulta útil y quieres apoyar su desarrollo, puedes hacerlo mediante una donación voluntaria.
+
+Invítame a un café ☕ en Ko-fi
+ko-fi.com/coverhunter
+
 ---
 
 ## Capturas de pantalla
@@ -72,7 +77,4 @@ Cover Hunter es gratuito, sin anuncios y sin versiones de pago.
 ### Pestaña Juegos
 
 ![Cover Hunter - Juegos](screenshots/juegos.png)
-Si te resulta útil y quieres apoyar su desarrollo, puedes hacerlo mediante una donación voluntaria.
 
-Invítame a un café ☕ en Ko-fi
-ko-fi.com/coverhunter
