@@ -67,14 +67,14 @@ Invítame a un café ☕ en Ko-fi
 ko-fi.com/coverhunter
 
 ---
+---
 
 ## Capturas de pantalla
 
 ### Pestaña Audio
 
-![Cover Hunter - Audio](screenshots/screenshot audio.png)
+![Cover Hunter - Audio](screenshot%20audio.png)
 
 ### Pestaña Juegos
 
-![Cover Hunter - Juegos](screenshots/screenshot juegos.png)
-
+![Cover Hunter - Juegos](screenshot%20juegos.png)
